@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+body {
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #F1F1F1;
+    font-family: 'amatic sc', sans-serif;
+}
+
+.container {
+    margin-bottom: 30px;
+    margin-top: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.btn {
+    width: 120px;
+}
+
+.container-title {
+    background: #ffffff;
+    padding: 8px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0px 0px 15px 0px #e8e8e8;
+    text-transform: uppercase;
+}
+
+.form-tudo {
+    background: #ffffff;
+    padding: 20px;
+    display: inline-grid;
+    box-shadow: 0px 0px 11px 0px #e8e8e8;
+    border-radius: 8px;
+    width: 800px;
+}
+
+.card {
+    margin-left: 155px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 11px 0px #e8e8e8;
+}
+
+.card-title {
+    border-radius: 20px;
+}
+
+.card-text {
+    border: 1px solid rgb(190, 186, 186);
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.card {
+    width: 800px;
+}
+
+input {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: #212529;
+}
+
+.btn-id {
+    background-color: #212529;
+    color: white;
+    width: 80px;
+    padding: 8px;
+    margin-left: 335px;
+    border-radius: 5px;
+}
+
+footer {
+    border-radius: 20px 20px 0px 0px;
+    height: 70px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: 0.2s;
+}
+
+a:hover {
+    color: rgb(73, 73, 73);
+}
+
