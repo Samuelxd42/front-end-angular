@@ -11,7 +11,7 @@ Para obter mais ajuda sobre o Angular CLI, use a ajuda ou consulte a página Vis
 
 1º -> sudo apt-get install nodejs
 
-2º npm install -g @angular/cli
+2º -> npm install -g @angular/cli
 
 se não tiver o npm
 
