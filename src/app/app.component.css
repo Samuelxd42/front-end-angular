@@ -76,6 +76,7 @@ input {
 
 .btn {
     background-color: #212529;
+    border: none;
 }
 
 .btn-id {
